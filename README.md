@@ -1,8 +1,8 @@
 # Rainbow Wallet Overview
 Rainbow Wallet is a user-friendly and visually appealing Ethereum wallet designed to help users easily manage their digital assets. It's particularly popular among those new to the Ethereum ecosystem due to its intuitive interface and features that cater to both beginners and advanced users.
 
+[Lear Rainbow Wallet](https://www.rainbowkit.com/docs/introduction)
 ![alt text](https://github.com/faridanangs/my-portfolio/blob/main/public/projects/ranbow.webp)
-
 
 
 ## Key Features
